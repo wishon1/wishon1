@@ -43,7 +43,7 @@ src="https://img.shields.io/twitter/follow/wishon_1?logo=twitter&style=for-the-b
 
 <a href="http://www.github.com/terryyufei"><img src="https://github-readme-stats.vercel.app/api?username=terryyufei&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="wishon1 GitHub stats" /></a>
 
-<a href="http://www.github.com/wishon1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=terryyufei&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/wishon1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wishon1&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/wishon1"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=wishon1&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
