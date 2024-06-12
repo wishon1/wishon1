@@ -4,7 +4,7 @@ Hi 👋 My name is Wisdom A. Honest
 software engineering student@ Alx_africa
 ----------------------------
 
-I am a fullstack Software Engineering student @ALX Africa with a Background in Microbiogy, my educational journey at alx involves learning different programming languages and gaining proficiency in them. These include C, Bash, Python, SQL, JavaScript, HTML, and CSS. My dedication as a student revolves around establishing a robust understanding of these languages, honing my abilities in software development. My coursework encompasses the composition of code, the formulation and execution of algorithms, as well as the creation of applications and software systems. My goal is to be a proficient and adept software engineer capable of devising innovative solutions for complex problems.
+I am a fullstack Software Engineering student @ALX Africa with a Background in Microbiogy, my educational journey at alx involves learning different programming languages and gaining proficiency in them. These include C, Bash, Python, SQL, mongodb, JavaScript, HTML, and CSS. My dedication as a student revolves around establishing a robust understanding of these languages, honing my abilities in software development. My coursework encompasses the composition of code, the formulation and execution of algorithms, as well as the creation of applications and software systems. My goal is to be a proficient and adept software engineer capable of devising innovative solutions for complex problems.
 
 * 🌍  I'm based in Bayelsa, Nigeria 
 * ✉️  You can contact me at [wisdomhonest1@gmail.com](wisdomhonest1@gmail.com)
